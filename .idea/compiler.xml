@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring_mvc_helloword" />
-        <module name="spring_mvc_demo" />
+        <module name="ch01_spring_mvc_helloword" />
+        <module name="ch03_spring_mvc_rest" />
+        <module name="ch02_spring_mvc_demo" />
+        <module name="ch04_spring_mvc_ajax" />
       </profile>
     </annotationProcessing>
   </component>

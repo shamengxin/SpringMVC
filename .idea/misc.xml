@@ -2,14 +2,23 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/spring_mvc_demo" />
-    <file type="web" url="file://$PROJECT_DIR$/spring_mvc_helloword" />
+    <file type="web" url="file://$PROJECT_DIR$/ch01_spring_mvc_helloword" />
+    <file type="web" url="file://$PROJECT_DIR$/ch02_spring_mvc_demo" />
+    <file type="web" url="file://$PROJECT_DIR$/ch03_spring_mvc_rest" />
+    <file type="web" url="file://$PROJECT_DIR$/ch04_spring_mvc_ajax" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/spring_mvc_helloword/pom.xml" />
         <option value="$PROJECT_DIR$/spring_mvc_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_mvc_rest/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_mvc_ajax/pom.xml" />
+        <option value="$PROJECT_DIR$/ch01-spring_mvc_helloword/pom.xml" />
+        <option value="$PROJECT_DIR$/ch01_spring_mvc_helloword/pom.xml" />
+        <option value="$PROJECT_DIR$/ch02_spring_mvc_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03_spring_mvc_rest/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04_spring_mvc_ajax/pom.xml" />
       </list>
     </option>
   </component>
