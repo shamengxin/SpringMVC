@@ -8,8 +8,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ch01_spring_mvc_helloword" />
         <module name="ch03_spring_mvc_rest" />
+        <module name="ch05_spring_mvc_extension" />
         <module name="ch02_spring_mvc_demo" />
         <module name="ch04_spring_mvc_ajax" />
+        <module name="ch06_spring_mvc_annotation" />
+        <module name="ch07_spring_listener" />
+        <module name="ch08_ssm" />
       </profile>
     </annotationProcessing>
   </component>

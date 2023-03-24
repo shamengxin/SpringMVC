@@ -1,9 +1,7 @@
 package com.shamengxin.controller;
 
 import com.shamengxin.pojo.User;
-import com.sun.xml.internal.ws.api.ha.StickyFeature;
 import org.springframework.stereotype.Controller;
-import org.springframework.stereotype.Repository;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -11,11 +9,11 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
 @Controller
+// @RestController = @Controller + @ResponseBody
 public class TestAjaxController {
 
     @RequestMapping("/test/ajax")
